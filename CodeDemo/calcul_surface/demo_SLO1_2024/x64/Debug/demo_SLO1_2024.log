@@ -1,0 +1,7 @@
+﻿  DemoSLO.c
+C:\DS_Test\Prog_2024-2025\demo_SLO1_2024\demo_SLO1_2024\DemoSLO.c(50,33): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\DS_Test\Prog_2024-2025\demo_SLO1_2024\demo_SLO1_2024\DemoSLO.c(53,37): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\DS_Test\Prog_2024-2025\demo_SLO1_2024\demo_SLO1_2024\DemoSLO.c(56,50): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\DS_Test\Prog_2024-2025\demo_SLO1_2024\demo_SLO1_2024\DemoSLO.c(59,5): warning C4013: 'printf' non défini(e) ; extern retournant int pris par défaut
+DemoSLO.obj : error LNK2019: symbole externe non résolu printf référencé dans la fonction main
+C:\DS_Test\Prog_2024-2025\demo_SLO1_2024\x64\Debug\demo_SLO1_2024.exe : fatal error LNK1120: 1 externes non résolus
